@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cardview</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <array name="facilities">
+        <item>Gym</item>
+        <item>Free Wifi</item>
+        <item>Swimming Pool</item>
+        <item>Basket Ball</item>
+        <item>Cricket</item>
+        <item>Hockey</item>
+        <item>Football</item>
+        <item>Volley Ball</item>
+        <item>BasketBall</item>
+    </array>
+
+</resources>
